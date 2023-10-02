@@ -1,0 +1,1 @@
+This project is a simple book store App which uses MERN stack. CRUD, Router, CORS are implemented in this project.
